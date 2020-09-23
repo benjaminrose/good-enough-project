@@ -5,11 +5,25 @@ Version {{cookiecutter.version}}
 {{cookiecutter.project_short_description}}
 
 
+## Instalation
+
+
+## Usage
+
+
 ## Project organization
+
+The project structure distinguishes three kinds of folders:
+- read-only (RO): not edited by either code or researcher
+- human-writeable (HW): edited by the researcher only.
+- project-generated (PG): folders generated when running the code; these folders can be deleted or emptied and will be completely reconstituted as the project is run.
+
 
 ```
 .
 ├── .gitignore
+.github
+...
 ├── CITATION.md
 ├── LICENSE.md
 ├── README.md
@@ -32,10 +46,12 @@ Version {{cookiecutter.version}}
 ```
 
 
-## License
+## Metadata
+
+### License
 
 This project is licensed under the terms of the [MIT License](/LICENSE.md)
 
-## Citation
+### Citation
 
 Please [cite this project as described here](/CITATION.md).

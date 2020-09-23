@@ -1,6 +1,6 @@
 MIT LICENSE
 
-Copyright (c) 2019 Barbara Vreede
+Copyright (c) 2020 Benjamin Rose
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
