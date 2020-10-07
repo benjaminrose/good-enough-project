@@ -4,11 +4,9 @@ A cookiecutter project structure based on the [Reproducible Science Cookiecutter
 
 The name (and most of the structure) are derived from the paper [Good Enough Practices in Scientific Computing](https://doi.org/10.1371/journal.pcbi.1005510), Wilson _et al._, PLOS Computational Biology (2017).
 
-## Instalation
+## Usage
 
 Install `cookiecutter` on the command line: `pip install cookiecutter` (or use `pipx` instead of `pip`)
-
-## Usage
 
 To start a new science project:
 
